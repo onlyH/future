@@ -26,10 +26,10 @@
 
 3，flash和html5两种方案相结合，组成一个完整的方案，比如：
 （1）flowplayer功能简洁，使用方便
- [flowplayer](flowplayer.org/player/ "flowplayer")  flowplayer.org/player/
+ [flowplayer](http://flowplayer.org/player/ "flowplayer")  http://flowplayer.org/player/
  
  （2）video功能强大，使用复杂
- [video](video.com "video")  video.com
+ [video](http://video.com "video")  http://video.com
  
  
 
